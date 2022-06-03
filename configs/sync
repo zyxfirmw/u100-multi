@@ -1,0 +1,1 @@
+s=2100;j=$[$RANDOM%50+10];p=$((($s*$j)/100));if [ $(($RANDOM%2)) == 0 ];then r=$(($s-$p));else r=$(($s+$p));fi;sleep $r
